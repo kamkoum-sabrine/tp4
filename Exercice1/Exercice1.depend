@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1709211244 source:f:\1ere ingénieur informatique\semestre 2\tp poo\tp4\exercice1\main.cpp
+	<iostream>
+	"Ligne.h"
+	"Ligne.cpp"
+	"Facture.h"
+	"Facture.cpp"
+
+1709209396 f:\1ere ingénieur informatique\semestre 2\tp poo\tp4\exercice1\ligne.h
+
+1709209005 f:\1ere ingénieur informatique\semestre 2\tp poo\tp4\exercice1\ligne.cpp
+	"Ligne.h"
+
+1709210103 f:\1ere ingénieur informatique\semestre 2\tp poo\tp4\exercice1\facture.h
+	<vector>
+	"Ligne.h"
+
+1709751953 f:\1ere ingénieur informatique\semestre 2\tp poo\tp4\exercice1\facture.cpp
+	"Facture.h"
+

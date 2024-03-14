@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1709756405 source:f:\1ere ingénieur informatique\semestre 2\tp poo\tp4\exercice2\main.cpp
+	<iostream>
+	"Ouvrage.h"
+	"Ouvrage.cpp"
+	"Bibliotheque.h"
+	"Bibliotheque.cpp"
+
+1709756701 f:\1ere ingénieur informatique\semestre 2\tp poo\tp4\exercice2\ouvrage.h
+
+1709757089 f:\1ere ingénieur informatique\semestre 2\tp poo\tp4\exercice2\ouvrage.cpp
+	"Ouvrage.h"
+
+1709756165 f:\1ere ingénieur informatique\semestre 2\tp poo\tp4\exercice2\bibliotheque.h
+	<vector>
+	"Ouvrage.h"
+
+1709756892 f:\1ere ingénieur informatique\semestre 2\tp poo\tp4\exercice2\bibliotheque.cpp
+	"Bibliotheque.h"
+
